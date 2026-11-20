@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(mvn *)",
+      "PowerShell(mvn.cmd -version)",
+      "PowerShell(mvnw.cmd -version)",
+      "PowerShell(npm *)",
+      "PowerShell(gcm mvn *)"
+    ]
+  }
+}
